@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/reach_In_Box.ai_test/static/css/main.a9208e60.css",
-    "main.js": "/reach_In_Box.ai_test/static/js/main.538c16c4.js",
+    "main.js": "/reach_In_Box.ai_test/static/js/main.310f8af2.js",
     "static/js/453.0510cb00.chunk.js": "/reach_In_Box.ai_test/static/js/453.0510cb00.chunk.js",
+    "static/media/logo.png": "/reach_In_Box.ai_test/static/media/logo.8a35620cd2d130f7c7b3.png",
     "index.html": "/reach_In_Box.ai_test/index.html",
     "main.a9208e60.css.map": "/reach_In_Box.ai_test/static/css/main.a9208e60.css.map",
-    "main.538c16c4.js.map": "/reach_In_Box.ai_test/static/js/main.538c16c4.js.map",
+    "main.310f8af2.js.map": "/reach_In_Box.ai_test/static/js/main.310f8af2.js.map",
     "453.0510cb00.chunk.js.map": "/reach_In_Box.ai_test/static/js/453.0510cb00.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9208e60.css",
-    "static/js/main.538c16c4.js"
+    "static/js/main.310f8af2.js"
   ]
 }
