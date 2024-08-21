@@ -5,15 +5,11 @@ import logo from './logo.png';
 const Login = () => {
 
     useEffect(()=>{
-        // localStorage.removeItem("reachinbox-auth");
-        // localStorage.removeItem("reachinbox-auth-firstname");
-        // localStorage.removeItem("reachinbox-auth-lastname");
-        // localStorage.removeItem("reachinbox-auth-email");
     },[])
   return (
     <div className='bg-black max-w-[1440px] h-screen m-auto text-white  flex flex-col justify-between'>
         <div className=" w-full h-16 flex justify-center items-center border border-slate-800">
-        <img src={logo} alt="Reachinbox Logo" />
+        <img src={logo} alt="Reachinbox Logo" className="w-40 h-auto"/>
         </div>
         <div className='w-full  flex justify-center items-center '>
             <div className=' m-auto w-[460px] h-auto md:h-[312px]  bg-[#111214] rounded-2xl border border-gray-700  py-6  px-10 '>
